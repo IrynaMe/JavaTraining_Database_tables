@@ -1,4 +1,5 @@
 # JavaTraining_Database_tables
+Before starting, add connector library mysql-connector-j-8.0.32.jar
 Create DB and methods to manage tables of DB
 -create a database, inserting its name from terminal
 -create a table, inserting from terminal column names
